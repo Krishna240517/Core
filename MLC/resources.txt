@@ -1,0 +1,2 @@
+NumPy and Pandas -> Class Notes
+Machine Learning related -> GFG
